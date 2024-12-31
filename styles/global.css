@@ -59,26 +59,26 @@ body {
 }
 
 .display-large {
-  font: var(--display-large);
   text-transform: uppercase;
+  font: var(--display-large);
   color: var(--content-primary);
 }
 
 .display-medium {
-  font: var(--display-medium);
   text-transform: uppercase;
+  font: var(--display-medium);
   color: var(--content-primary);
 }
 
 .display-small {
-  font: var(--display-small);
   text-transform: uppercase;
+  font: var(--display-small);
   color: var(--content-primary);
 }
 
 .overline {
-  font: var(--overline);
   text-transform: uppercase;
+  font: var(--overline);
 
   background: linear-gradient(90deg, var(--gradient-content));
   background-clip: text;
