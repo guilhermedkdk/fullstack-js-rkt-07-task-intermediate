@@ -1,10 +1,10 @@
-<h1 align="center"> Desafio - Numbers Page </h1>
+<h1 align="center"> Desafio - Numbers </h1>
 
 <p align= "center">
 Uma página sorteadora de números feita como forma de um desafio do curso Fullstack da Rocketseat</p>
 
 <p align="center">
-<a href="https://guilhermedkdk.github.io/js-numbers-challenge/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+<a href="https://guilhermedkdk.github.io/js-numbers/">🔗 Live Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-tecnologias">🚀 Tecnologias</a>&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="#-desafio">💻 Desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 <a href="#-aprendizados">📚 Aprendizados</a>
@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Desafio
 
-A Numbers Page foi um desafio do curso Fullstack da Rocketseat no módulo "JavaScript", onde usei arrays, DOM, repetições e eventos em JavaScript, além de animações em CSS, para criar uma interface dinâmica.
+O "Numbers" foi um desafio do curso Fullstack da Rocketseat no módulo "JavaScript", onde usei arrays, DOM, repetições e eventos em JavaScript, além de animações em CSS, para criar uma interface dinâmica.
 
 ## 📚 Aprendizados
 
